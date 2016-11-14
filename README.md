@@ -1,4 +1,4 @@
-# Memo
+# News Filter
 The source code for the project is in the following files :
 main.py
 project_util.py
